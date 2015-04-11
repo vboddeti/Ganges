@@ -8,4 +8,5 @@ Stable releases can be downloaded from http://github.com/vboddeti/Ganges/release
 If you have previously checked out code with "git clone" then you can obtain the latest changes with:
 
 cd Ganges; git pull
-For further information see http://vishnu.boddeti.net/Ganges or email naresh@cmu.edu
+
+For further information see http://vishnu.boddeti.net/Ganges or email naresh [.at.] cmu.edu
